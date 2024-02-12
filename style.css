@@ -112,16 +112,6 @@ li {
   margin-top: 20px;
   cursor: auto;
 }
-ul:first-letter {
-  vertical-align: 5px;
-  font-size: 0.6em;
-  color: rgb(0, 0, 0);
-}
-ul:first-letter:hover {
-  vertical-align: 5px;
-  font-size: 0.6em;
-  color: rgb(92, 92, 92);
-}
 ul > li {
   margin-top: 0px;
 }
